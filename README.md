@@ -37,7 +37,7 @@
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/ks-recipes-app.git`
+1. Clone the repository: `git clone https://github.com/john25552/food-recipes.git`
 2. Navigate to the project directory: `cd ks-recipes-app`
 3. Install dependencies for the frontend and backend:
    ```
